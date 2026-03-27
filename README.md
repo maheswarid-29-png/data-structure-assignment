@@ -47,7 +47,7 @@ How to implement menu-driven programs in C
 ## Author
 # Name:D.Maheswari
 # Roll number:71
-# course name:Data assignment and algorithm
+# course name:Data structure and algorithm
 ## License
 This project is for educational purpose
 ## Assignment Description:
