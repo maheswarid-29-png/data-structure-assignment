@@ -50,5 +50,5 @@ How to implement menu-driven programs in C
 # course name:Data assignment and algorithm
 ## License
 This project is for educational purpose
-## Asiignment Description:
+## Assignment Description:
               In this assignment, you will learn how stacks and queues work by writing C programs. You will reverse a string using a stack, check if the brackets in an expression are balanced, and find the next bigger number for each element in an array. You will also create a printer queue to see how documents are printed in order, and make a circular queue to manage elements efficiently. These programs will help you understand how stacks and queues are used in real life and give you practice in writing C programs
